@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seoheroph.github.io/i-am-a-plumber-remod-1bb28/sitemap.xml
